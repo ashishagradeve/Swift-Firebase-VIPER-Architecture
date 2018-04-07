@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Swift-Firebase-VIPER-Architecture
+
+  Created by Ashish Agrawal on 08/04/18.
+  Copyright © 2018 Ashish. All rights reserved.
+*/
+
+
+"Login Via Facebook" = "Login Via Facebook";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"Add Photo" = "Add Photo";
+"First Name" = "First Name";
+"Last Name" = "Last Name";
+"Work At" = "Work At";
+"Phone Number" = "Phone Number";
